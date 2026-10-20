@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+<rect width="1200" height="1600" fill="#102b46"/>
+<path d="M0 1160 L1200 700 L1200 1600 L0 1600Z" fill="#174965"/>
+<g fill="none" stroke="#54c8c5" stroke-width="5"><path d="M160 1000H440V850H750V1000H1050"/><path d="M440 1000V1150H750V1000"/><circle cx="160" cy="1000" r="28"/><circle cx="1050" cy="1000" r="28"/></g>
+<g fill="#fff" font-family="sans-serif"><text x="100" y="290" font-size="84" font-weight="bold">API 网关</text><text x="100" y="410" font-size="84" font-weight="bold">设计与实现</text><text x="104" y="525" font-size="30">从 ShenYu 核心机制到六种网关的工程实践</text><text x="104" y="650" font-size="26" fill="#97d8dd">插件链 · 路由匹配 · 限流熔断 · 动态配置</text><text x="104" y="1360" font-size="24">ShenYu / Spring Cloud Gateway / Kong</text><text x="104" y="1410" font-size="24">APISIX / Higress / Envoy Gateway</text><text x="104" y="1500" font-size="22" fill="#97d8dd">技术实践版 · 2026</text></g></svg>

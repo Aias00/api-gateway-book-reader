@@ -1,0 +1,10 @@
+{
+  "sections": 27,
+  "body_chapters": 20,
+  "appendices": 5,
+  "local_links_verified": 191,
+  "source_paragraphs_and_code_blocks": 193,
+  "source_fidelity": "passed",
+  "github_navigation": "passed",
+  "pages_workflow": "present; live deployment requires a target repository"
+}

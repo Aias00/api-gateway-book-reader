@@ -1,0 +1,23 @@
+{
+  "url": "http://127.0.0.1:8878/",
+  "sections": 27,
+  "widths": [
+    390,
+    768,
+    1440
+  ],
+  "checks": [
+    "complete static text without JavaScript",
+    "chapter anchors",
+    "safe full text search",
+    "four reading themes",
+    "font persistence",
+    "explicit resume reading",
+    "clipboard copy",
+    "EPUB download",
+    "mobile menu",
+    "all images loaded",
+    "no horizontal page overflow",
+    "no browser errors"
+  ]
+}

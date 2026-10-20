@@ -1,0 +1,3 @@
+route: Route(id='orders', prefix='/api/orders', upstream='orders', priority=0)
+burst: [True, True, False]
+captured revision: 1 new revision: 2

@@ -1,0 +1,406 @@
+[
+  {
+    "width": 800,
+    "file": "ch001.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "前言：从一次请求走进网关"
+  },
+  {
+    "width": 800,
+    "file": "ch002.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 1 章 网关边界与请求生命周期"
+  },
+  {
+    "width": 800,
+    "file": "ch003.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 2 章 ShenYu 的模块地图与阅读方法"
+  },
+  {
+    "width": 800,
+    "file": "ch004.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 3 章 插件链：顺序、异步与短路"
+  },
+  {
+    "width": 800,
+    "file": "ch005.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 4 章 选择器、规则与确定性匹配"
+  },
+  {
+    "width": 800,
+    "file": "ch006.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 5 章 匹配性能与缓存一致性"
+  },
+  {
+    "width": 800,
+    "file": "ch007.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 6 章 限流：从令牌桶到租户配额"
+  },
+  {
+    "width": 800,
+    "file": "ch008.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 7 章 熔断、隔离、超时与重试"
+  },
+  {
+    "width": 800,
+    "file": "ch009.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 8 章 动态配置：把发布当作分布式协议"
+  },
+  {
+    "width": 800,
+    "file": "ch010.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 9 章 安全边界与协议处理"
+  },
+  {
+    "width": 800,
+    "file": "ch011.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 10 章 六种网关的共同坐标系"
+  },
+  {
+    "width": 800,
+    "file": "ch012.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 11 章 Spring Cloud Gateway：应用式网关的取舍"
+  },
+  {
+    "width": 800,
+    "file": "ch013.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 12 章 Kong：围绕 API 实体组织治理"
+  },
+  {
+    "width": 800,
+    "file": "ch014.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 13 章 APISIX：动态路由与插件执行阶段"
+  },
+  {
+    "width": 800,
+    "file": "ch015.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 14 章 Higress：Envoy、Wasm 与 AI 流量"
+  },
+  {
+    "width": 800,
+    "file": "ch016.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 15 章 Envoy Gateway 与 Kubernetes Gateway API"
+  },
+  {
+    "width": 800,
+    "file": "ch017.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 16 章 可观测、容量与性能实验"
+  },
+  {
+    "width": 800,
+    "file": "ch018.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 17 章 选型与迁移：用约束收敛答案"
+  },
+  {
+    "width": 800,
+    "file": "ch019.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 18 章 综合设计：电商平台网关方案"
+  },
+  {
+    "width": 800,
+    "file": "ch020.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 19 章 实现一个可验证的最小网关内核"
+  },
+  {
+    "width": 800,
+    "file": "ch021.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "第 20 章 故障案例与排障路径"
+  },
+  {
+    "width": 800,
+    "file": "ch022.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "附录 A 思考题参考答案"
+  },
+  {
+    "width": 800,
+    "file": "ch023.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "附录 B 设计评审清单"
+  },
+  {
+    "width": 800,
+    "file": "ch024.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "附录 C 术语表"
+  },
+  {
+    "width": 800,
+    "file": "ch025.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "附录 D 参考资料与源码定位"
+  },
+  {
+    "width": 800,
+    "file": "ch026.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "附录 E 策略内核完整实现"
+  },
+  {
+    "width": 800,
+    "file": "ch027.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "结语：设计的目标是可解释的行为"
+  },
+  {
+    "width": 800,
+    "file": "cover.xhtml",
+    "scrollWidth": 800,
+    "images": true
+  },
+  {
+    "width": 800,
+    "file": "title_page.xhtml",
+    "scrollWidth": 800,
+    "images": true,
+    "heading": "API 网关设计与实现"
+  },
+  {
+    "width": 390,
+    "file": "ch001.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "前言：从一次请求走进网关"
+  },
+  {
+    "width": 390,
+    "file": "ch002.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 1 章 网关边界与请求生命周期"
+  },
+  {
+    "width": 390,
+    "file": "ch003.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 2 章 ShenYu 的模块地图与阅读方法"
+  },
+  {
+    "width": 390,
+    "file": "ch004.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 3 章 插件链：顺序、异步与短路"
+  },
+  {
+    "width": 390,
+    "file": "ch005.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 4 章 选择器、规则与确定性匹配"
+  },
+  {
+    "width": 390,
+    "file": "ch006.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 5 章 匹配性能与缓存一致性"
+  },
+  {
+    "width": 390,
+    "file": "ch007.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 6 章 限流：从令牌桶到租户配额"
+  },
+  {
+    "width": 390,
+    "file": "ch008.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 7 章 熔断、隔离、超时与重试"
+  },
+  {
+    "width": 390,
+    "file": "ch009.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 8 章 动态配置：把发布当作分布式协议"
+  },
+  {
+    "width": 390,
+    "file": "ch010.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 9 章 安全边界与协议处理"
+  },
+  {
+    "width": 390,
+    "file": "ch011.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 10 章 六种网关的共同坐标系"
+  },
+  {
+    "width": 390,
+    "file": "ch012.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 11 章 Spring Cloud Gateway：应用式网关的取舍"
+  },
+  {
+    "width": 390,
+    "file": "ch013.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 12 章 Kong：围绕 API 实体组织治理"
+  },
+  {
+    "width": 390,
+    "file": "ch014.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 13 章 APISIX：动态路由与插件执行阶段"
+  },
+  {
+    "width": 390,
+    "file": "ch015.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 14 章 Higress：Envoy、Wasm 与 AI 流量"
+  },
+  {
+    "width": 390,
+    "file": "ch016.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 15 章 Envoy Gateway 与 Kubernetes Gateway API"
+  },
+  {
+    "width": 390,
+    "file": "ch017.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 16 章 可观测、容量与性能实验"
+  },
+  {
+    "width": 390,
+    "file": "ch018.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 17 章 选型与迁移：用约束收敛答案"
+  },
+  {
+    "width": 390,
+    "file": "ch019.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 18 章 综合设计：电商平台网关方案"
+  },
+  {
+    "width": 390,
+    "file": "ch020.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 19 章 实现一个可验证的最小网关内核"
+  },
+  {
+    "width": 390,
+    "file": "ch021.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "第 20 章 故障案例与排障路径"
+  },
+  {
+    "width": 390,
+    "file": "ch022.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "附录 A 思考题参考答案"
+  },
+  {
+    "width": 390,
+    "file": "ch023.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "附录 B 设计评审清单"
+  },
+  {
+    "width": 390,
+    "file": "ch024.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "附录 C 术语表"
+  },
+  {
+    "width": 390,
+    "file": "ch025.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "附录 D 参考资料与源码定位"
+  },
+  {
+    "width": 390,
+    "file": "ch026.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "附录 E 策略内核完整实现"
+  },
+  {
+    "width": 390,
+    "file": "ch027.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "结语：设计的目标是可解释的行为"
+  },
+  {
+    "width": 390,
+    "file": "cover.xhtml",
+    "scrollWidth": 390,
+    "images": true
+  },
+  {
+    "width": 390,
+    "file": "title_page.xhtml",
+    "scrollWidth": 390,
+    "images": true,
+    "heading": "API 网关设计与实现"
+  }
+]

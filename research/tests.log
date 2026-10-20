@@ -1,0 +1,11 @@
+test_breaker_open_single_probe_and_recovery (test_gateway_core.KernelTests.test_breaker_open_single_probe_and_recovery) ... ok
+test_bucket_burst_refill_and_capacity (test_gateway_core.KernelTests.test_bucket_burst_refill_and_capacity) ... ok
+test_failed_probe_and_late_results (test_gateway_core.KernelTests.test_failed_probe_and_late_results) ... ok
+test_reject_bad_config_without_partial_application (test_gateway_core.KernelTests.test_reject_bad_config_without_partial_application) ... ok
+test_route_determinism_and_boundary (test_gateway_core.KernelTests.test_route_determinism_and_boundary) ... ok
+test_snapshot_revision_and_rollback (test_gateway_core.KernelTests.test_snapshot_revision_and_rollback) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
